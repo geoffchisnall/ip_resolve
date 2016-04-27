@@ -1,4 +1,5 @@
 # ip_resolve
+# version 1.0
 Resolve dnsname/hostname of a given list of IPs
 Only works on Windows.
 
