@@ -3,7 +3,7 @@
 #Author: Geoffrey Chisnall
 #2016
 
-import os,sys,subprocess
+import subprocess
 
 iplist = "iplist.txt"
  
