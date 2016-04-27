@@ -3,10 +3,10 @@ Resolve dnsname/hostname of a given list of IPs
 Only works on Windows.
 
 Requirements: 
-1) python2.7
-2) nslookup
-3) ping
-4) Currently only works on windows as it uses the "ping -a" to resolve NETBIOS.
+1) python2.7\n
+2) nslookup\n
+3) ping\n
+4) Currently only works on windows as it uses the "ping -a" to resolve NETBIOS.\n
 
 Add IPs into "iplist.txt" 
 e.g
