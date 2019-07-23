@@ -24,3 +24,5 @@ C:\code\ip_resolve>type iplist.txt
 10.0.0.2
 
 10.0.0.3
+
+10.0.0.4
